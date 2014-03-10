@@ -1,0 +1,33 @@
+{
+  "name": "goodeggs-login",
+  "version": "0.0.0",
+  "description": "Auth GoodEggs with e-mail and password",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "dependencies": {
+    "hyperquest": "0.2.x",
+    "request": "~2.34.0",
+    "through": "~2.3.4",
+    "pubsub": "~1.0.2"
+  },
+  "devDependencies": {
+    "prova": "*"
+  },
+  "keywords": [
+    "goodeggs",
+    "farm",
+    "fresh",
+    "farming",
+    "vegetables",
+    "api",
+    "auth"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/goodeggs-login.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
