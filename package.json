@@ -1,6 +1,6 @@
 {
   "name": "goodeggs-login",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Auth GoodEggs with e-mail and password",
   "main": "index.js",
   "dependencies": {
