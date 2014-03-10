@@ -3,9 +3,6 @@
   "version": "0.0.0",
   "description": "Auth GoodEggs with e-mail and password",
   "main": "index.js",
-  "scripts": {
-    "test": "fox"
-  },
   "dependencies": {
     "hyperquest": "0.2.x",
     "request": "~2.34.0",
