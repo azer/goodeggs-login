@@ -15,7 +15,7 @@ login = require('goodeggs-login')
 
 azer = login('azer@kodfabrik.com', '123456')
 
-azer({ url: 'basket?sanitize=true', json: true }).stream(process.stdout)
+azer({ url: 'basket?sanitize=true', json: true }).pipe(process.stdout)
 // => { user: { .. }, items: [] }
 ```
 
